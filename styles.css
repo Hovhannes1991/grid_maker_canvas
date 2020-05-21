@@ -1,0 +1,18 @@
+canvas {
+	width: 400px;
+	height: 400px;
+	background-color: grey;
+}
+
+div{
+	margin: 10px;	
+}
+
+input {
+	border: 2px solid green;
+	border-radius: 5px;
+	text-align: center;
+	height: 40px;
+	font-size: 1em;
+	color: green;
+}
